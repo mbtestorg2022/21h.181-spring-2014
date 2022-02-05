@@ -41,11 +41,56 @@ Second, we will hold two in-class debates during the course of the semester.
 
 Finally, the course assignments include two papers. The first is a paper of 8–10 pages on a topic relating to the history and political theory of liberty as an ideal (Part One of the course). The second is a 10–12 page paper that more deeply explores one of the case studies or controversies we will study in Parts Two and Three of the course.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Paper 1 | 20% |
-| Paper 2 | 40% |
-| Reading Response Papers (3) | 10% |
-| Class Participation | 30% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 1
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 2
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Reading Response Papers (3)
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For further detail on the course assignments, please see the [Assignments]({{< baseurl >}}/pages/assignments) section.
