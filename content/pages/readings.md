@@ -108,7 +108,7 @@ Roots of Modern Freedom (II): The Early Modern Period
 {{< tdopen >}}
 
 
-Skinner, Quentin. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["A Third Concept of Liberty." (PDF - 2.2MB)](http://www.law.uvic.ca/demcon/victoria_colloquium/documents/SkinnerAThirdConceptofLiberty.pdf) _Proceedings of the British Academy_ 117 (2002): 237–68.
+Skinner, Quentin. ["A Third Concept of Liberty." (PDF - 2.2MB)](http://www.law.uvic.ca/demcon/victoria_colloquium/documents/SkinnerAThirdConceptofLiberty.pdf) _Proceedings of the British Academy_ 117 (2002): 237–68.
 
 ### Recommended
 
@@ -454,13 +454,13 @@ Religious Accommodation and Civil Rights Today
 
 [Employment Division, Oregon Department of Human Resources v. Smith (1990)](http://caselaw.findlaw.com/us-supreme-court/494/872.html).
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Amicus Brief by Douglas Laycock in the Sebelius v. Hobby Lobby Case. (PDF)](http://s3.amazonaws.com/becketpdf/Nos.-13-354-13-356-bsac-Christian-Legal-Soc.pdf)
+[Amicus Brief by Douglas Laycock in the Sebelius v. Hobby Lobby Case. (PDF)](http://s3.amazonaws.com/becketpdf/Nos.-13-354-13-356-bsac-Christian-Legal-Soc.pdf)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Amicus Brief by Julian Bond in the Sebelius v. Hobby Lobby Case. (PDF)](https://becketpdf.s3.amazonaws.com/No.-13-354-tsac-Julia-Bond.pdf)
+[Amicus Brief by Julian Bond in the Sebelius v. Hobby Lobby Case. (PDF)](https://becketpdf.s3.amazonaws.com/No.-13-354-tsac-Julia-Bond.pdf)
 
 ### Recommended
 
-Laylock, Douglas. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Sex, Atheism, and the Free Exercise of Religion." (PDF)](https://www.ali.org/media/filer_public/5b/9f/5b9f7ec1-16b5-46dd-8040-1ed1f16a0098/sex_atheism_and_the_free_exercise_of_religion.pdf) _University of Detroit Mercy Law Review_ 88, no. 3 (2011): 407–32.
+Laylock, Douglas. ["Sex, Atheism, and the Free Exercise of Religion." (PDF)](https://www.ali.org/media/filer_public/5b/9f/5b9f7ec1-16b5-46dd-8040-1ed1f16a0098/sex_atheism_and_the_free_exercise_of_religion.pdf) _University of Detroit Mercy Law Review_ 88, no. 3 (2011): 407–32.
 
 
 {{< tdclose >}}
@@ -549,7 +549,7 @@ Excerpts from the following materials relating to Klayman v. Obama (2013):
 *   [Klayman v. Obama Memorandum Opinion: Richard J. Leon, District Judge (2013)](http://www.leagle.com/decision/In%20FDCO%2020140116H90/KLAYMAN%20v.%20OBAMA).
 *   [ACLU v. Clapper (2013)(PDF)](http://www.clearinghouse.net/chDocs/public/NS-NY-0003-0004.pdf).
 *   "[Transcript of President Obama's Jan. 17 Speech on NSA Reforms](http://www.washingtonpost.com/politics/full-text-of-president-obamas-jan-17-speech-on-nsa-reforms/2014/01/17/fa33590a-7f8c-11e3-9556-4a4bf7bcbd84_story.html)," _Washington Post_, January 17, 2014.
-*   Privacy and Civil Liberties Oversight Board. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Report on the Telephone Records Program Conducted under Section 215 of the USA Patriot Act and on the Operations of the Foreign Intelligence Surveillance Court." (PDF)](https://www.pclob.gov/library/215-Report_on_the_Telephone_Records_Program.pdf) January 23, 2014.
+*   Privacy and Civil Liberties Oversight Board. ["Report on the Telephone Records Program Conducted under Section 215 of the USA Patriot Act and on the Operations of the Foreign Intelligence Surveillance Court." (PDF)](https://www.pclob.gov/library/215-Report_on_the_Telephone_Records_Program.pdf) January 23, 2014.
 
 Savage, Charlie. "[Obama to Call for End to N. S. A.'s Bulk Data Collection](http://www.nytimes.com/2014/03/25/us/obama-to-seek-nsa-curb-on-call-data.html?_r=0)," _New York Times_, March 24, 2014.
 
@@ -571,7 +571,7 @@ Goldsmith, Jack. _The Terror Presidency: Law and Judgment Inside the Bush Admini
 Obamacare
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[National Federation of Independent Business v. Sebelius (2012) (PDF)](http://www.supremecourt.gov/opinions/11pdf/11-393c3a2.pdf)
+[National Federation of Independent Business v. Sebelius (2012) (PDF)](http://www.supremecourt.gov/opinions/11pdf/11-393c3a2.pdf)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -591,11 +591,11 @@ The Origins of the 2008 Financial Crisis
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Financial Crisis Inquiry Commission Report: Conclusions of the Financial Crisis Inquiry Commission." (PDF)](http://fcic-static.law.stanford.edu/cdn_media/fcic-reports/fcic_final_report_conclusions.pdf)
+["Financial Crisis Inquiry Commission Report: Conclusions of the Financial Crisis Inquiry Commission." (PDF)](http://fcic-static.law.stanford.edu/cdn_media/fcic-reports/fcic_final_report_conclusions.pdf)
 
-Hennessey, Keith, Douglas Holtz-Eakin, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Causes of the Financial and Economic Crisis: Dissenting Statement." (PDF)](http://fcic-static.law.stanford.edu/cdn_media/fcic-reports/fcic_final_report_hennessey_holtz-eakin_thomas_dissent.pdf)
+Hennessey, Keith, Douglas Holtz-Eakin, et al. ["Causes of the Financial and Economic Crisis: Dissenting Statement." (PDF)](http://fcic-static.law.stanford.edu/cdn_media/fcic-reports/fcic_final_report_hennessey_holtz-eakin_thomas_dissent.pdf)
 
-Wallison, Peter J. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Financial Crisis Inquiry Commission Dissenting Statement." (PDF)](http://fcic-static.law.stanford.edu/cdn_media/fcic-reports/fcic_final_report_wallison_dissent.pdf) 2011, pp. 443–70.
+Wallison, Peter J. ["Financial Crisis Inquiry Commission Dissenting Statement." (PDF)](http://fcic-static.law.stanford.edu/cdn_media/fcic-reports/fcic_final_report_wallison_dissent.pdf) 2011, pp. 443–70.
 
 ### Recommended
 
@@ -605,7 +605,7 @@ Tett, Gillian. _Fool's Gold: The Inside Story of J. P. Morgan and How Wall St. G
 
 Taylor, John B. _Getting Off Track: How Government Actions and Interventions Caused, Prolonged, and Worsened the Financial Crisis_. Hoover Institution Press, 2009. ISBN: 9780817949716. \[Preview with [Google Books](http://books.google.com/books?id=qv1TkncYjXYC&pg=PAfrontcover)\]
 
-Taylor, John B. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Financial Crisis and the Policy Reponses: An Empirical Analysis of What Went Wrong." (PDF)](http://web.stanford.edu/~johntayl/FCPR.pdf) November 2008.
+Taylor, John B. ["The Financial Crisis and the Policy Reponses: An Empirical Analysis of What Went Wrong." (PDF)](http://web.stanford.edu/~johntayl/FCPR.pdf) November 2008.
 
 
 {{< tdclose >}}
@@ -677,7 +677,7 @@ The Case of Aaron Swartz
 {{< tdopen >}}
 
 
-Abelson, Harold, Peter A. Diamond, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Report to the President: MIT and the Prosecution of Aaron Swartz." (PDF)](http://swartz-report.mit.edu/docs/report-to-the-president.pdf) July 26, 2013, pp. 11–15, 16–28, and 89–101.
+Abelson, Harold, Peter A. Diamond, et al. ["Report to the President: MIT and the Prosecution of Aaron Swartz." (PDF)](http://swartz-report.mit.edu/docs/report-to-the-president.pdf) July 26, 2013, pp. 11–15, 16–28, and 89–101.
 
 ### Recommended
 
